@@ -1,5 +1,5 @@
 
-
+ I DONT KNOW WHY THE FUCK https://777Lempuu.github.io/CampusGrievancePortal-ReusedSite/ isn't working 
 ## Deployment
 
 This project is configured for automatic deployment to GitHub Pages. Simply push to the `main` branch and the site will be automatically built and deployed.
