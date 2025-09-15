@@ -1,5 +1,39 @@
+# Campus Grievance Redressal Portal
 
- I DONT KNOW WHY THE FUCK https://777Lempuu.github.io/CampusGrievancePortal-ReusedSite/ isn't working 
+A Matrix-inspired grievance portal for Seal University with early 2000s terminal aesthetics.
+
+## Features
+
+- **Anonymous Complaint System**: Students, faculty, and staff can submit complaints anonymously
+- **Real-time Tracking**: Package-delivery style status tracking for complaints
+- **Admin Dashboard**: Comprehensive management interface for administrators
+- **Matrix Aesthetics**: Green terminal-style interface with retro computing vibes
+- **Secure & Private**: All complaints are handled with anonymity protocols
+
+## Live Demo
+
+Visit the live demo: [https://777Lempuu.github.io/CampusGrievancePortal-ReusedSite/](https://777Lempuu.github.io/CampusGrievancePortal-ReusedSite/)
+
+## Local Development
+
+1. Clone the repository:
+```bash
+git clone https://github.com/777Lempuu/CampusGrievancePortal-ReusedSite.git
+cd CampusGrievancePortal-ReusedSite
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+4. Open [http://localhost:5173](http://localhost:5173) in your browser
+
 ## Deployment
 
 This project is configured for automatic deployment to GitHub Pages. Simply push to the `main` branch and the site will be automatically built and deployed.
