@@ -1,38 +1,4 @@
-# Campus Grievance Redressal Portal
 
-A Matrix-inspired grievance portal for Seal University with early 2000s terminal aesthetics.
-
-## Features
-
-- **Anonymous Complaint System**: Students, faculty, and staff can submit complaints anonymously
-- **Real-time Tracking**: Package-delivery style status tracking for complaints
-- **Admin Dashboard**: Comprehensive management interface for administrators
-- **Matrix Aesthetics**: Green terminal-style interface with retro computing vibes
-- **Secure & Private**: All complaints are handled with anonymity protocols
-
-## Live Demo
-
-Visit the live demo: [https://yourusername.github.io/campus-grievance-portal/](https://yourusername.github.io/campus-grievance-portal/)
-
-## Local Development
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/campus-grievance-portal.git
-cd campus-grievance-portal
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Start the development server:
-```bash
-npm run dev
-```
-
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
 ## Deployment
 
